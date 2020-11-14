@@ -11,3 +11,23 @@ code {
   font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
     monospace;
 }
+
+th {
+  width: 300px;
+  border: 15px solid goldenrod;
+  padding: 50px;
+  margin: 20px;
+}
+p {
+  border: 1px solid black;
+  outline-style: solid;
+  outline-color: red;
+  outline-width: medium;
+}
+
+tr {
+  width: 255px;
+  border: 11px solid dodgerblue;
+  padding: 5px;
+  margin: 22px;
+}
